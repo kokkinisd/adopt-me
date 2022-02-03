@@ -12,3 +12,8 @@ Showcasing:
 - Component Composition
 - React Router
 - Class Components
+- Class Properties
+- Managing State in Class Components
+- Error Boundaries
+- Context
+- Portals and Refs
